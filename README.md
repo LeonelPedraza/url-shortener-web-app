@@ -4,7 +4,7 @@ Lenguajes usados: - Javascript - CSS - HTML
 Bibliotecas usadas: - React - React-router-dom - React-hook-form - Bootstrap - Bootstrap-icons - React-spinners
 
 Descripción del proyecto:
-Servicio de acortado de direcciones web. Esta en particular es la web del servicio, todavía se encuentra en fase de desarrollo. A sido creada sobre React y consiste en una SPA. Este proyecto es dependiente de un conjunto de herramientas que forman el servicio, todavía no se encuentra desplegado.
+Servicio de acortado de direcciones web. Esta en particular es la web del servicio, todavía se encuentra en fase de desarrollo. Ha sido creada sobre React. Este proyecto es dependiente de un conjunto de herramientas que forman el servicio, todavía no se encuentra desplegado.
 
 Que esta disponible en estos momentos:
 
